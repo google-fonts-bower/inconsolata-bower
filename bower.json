@@ -1,17 +1,17 @@
 {
     "name": "inconsolata-googlefont",
-    "license": null,
+    "license": "OFL",
     "authors": [
-        null
+        "Raph Levien"
     ],
     "homepage": "https://fonts.google.com/",
     "repository": {
         "type": "git",
         "url": "https://github.com/google-fonts-bower/inconsolata-bower.git"
     },
-    "description": " font",
+    "description": "Inconsolata font",
     "keywords": [
         "font",
-        null
+        "MONOSPACE"
     ]
 }
